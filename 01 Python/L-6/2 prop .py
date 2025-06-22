@@ -19,3 +19,4 @@ print("hi i am " + name + "and my age is " + str(age))
 print("My age is :",age)
 
 # ---> Variable is reuseable 
+# ---> python having dynamic data type nature
