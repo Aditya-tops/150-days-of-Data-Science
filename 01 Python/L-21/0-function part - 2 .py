@@ -11,9 +11,9 @@ print("---------------------------")
     type of argu
     ------------
         1.POSITIONAL ARGU
-        2.KEYWORD ARGU
+        2.KEYWORD ARGU                          imp
         3.DEFAULT ARGU
-        4.VARIABLE LENGTH ARGU (*ARGU)
+        4.VARIABLE LENGTH ARGU (*ARGU)          imp
 '''
 
 
