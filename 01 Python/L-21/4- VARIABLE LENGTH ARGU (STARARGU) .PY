@@ -30,7 +30,18 @@ def shopping1(*p):
     print("Total bill is :- ",sum(p))
 shopping1(777,888,999,888,111)
 
+print("-----------------------------")
 
+def m1(*a):
+    print("our number in tuple :-",a)
+    # how to print this tuple number
+    for i in a :
+        print(i)
+
+
+m1(10,20,30,40,50,"aditya")
+
+print("-----------------------------")
 
 
 
