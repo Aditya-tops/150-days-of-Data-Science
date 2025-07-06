@@ -1,0 +1,5 @@
+List
+----
+    1. Explain about List
+    2. Explain abour method
+    3. Explain about list comprehension
