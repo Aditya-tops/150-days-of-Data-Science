@@ -1,0 +1,4 @@
+def naresh():
+    print("Hello")
+
+class
